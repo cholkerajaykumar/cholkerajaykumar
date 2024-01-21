@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<a href="https://app.daily.dev/ajaykumar"><img src="https://api.daily.dev/devcards/eeafac0920944a8ba74d78838882a7cb.png?r=g88" width="400" alt="Ajay Kumar's Dev Card"/></a>
 
 <!---
 cholkerajaykumar/cholkerajaykumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
